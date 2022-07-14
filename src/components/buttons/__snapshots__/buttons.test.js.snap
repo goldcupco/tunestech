@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components | buttons Render the Button default 1`] = `
+.c0 {
+  background-color: transparent;
+  padding: 10px;
+  border-radius: 20px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 14px;
+  border: 1px solid #bdbcbe;
+  color: #5fbe1a;
+}
+
+<div>
+  <button
+    class="c0"
+  >
+    Some text stuff
+  </button>
+</div>
+`;
+
+exports[`components | buttons Render the Button with variant primary 1`] = `
+.c0 {
+  background-color: transparent;
+  padding: 10px;
+  border-radius: 20px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 14px;
+  border: 1px solid #5fbe1a;
+  background-color: #5fbe1a;
+  color: #ffffff;
+}
+
+<div>
+  <button
+    class="c0"
+  >
+    Some text stuff
+  </button>
+</div>
+`;
+
+exports[`components | buttons Render the cursor ponter when prop onClick is set 1`] = `
+.c0 {
+  background-color: transparent;
+  padding: 10px;
+  border-radius: 20px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+  border: 1px solid #bdbcbe;
+  color: #5fbe1a;
+}
+
+<div>
+  <button
+    class="c0"
+  >
+    Some text stuff
+  </button>
+</div>
+`;
