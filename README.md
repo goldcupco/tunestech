@@ -61,4 +61,8 @@ yarn test:coverage
   -  Responsiveness works as follows :
     786 pixels and lower are treated as mobile devices with higher 
     treated as web enabled
+
+
+  This code is deployed to Vercel at https://tunestech.vercel.app/
+
   
